@@ -3,12 +3,12 @@
 ## Step 1: Brainstorming (The What?)
 
 1. What problem(s) will participants learn how to solve (**Core Skills**)?
-  * Learn to work with `.csv, .xlsx` and simlar raw data files with `python` or `R`.
-    * See: (Formatiing Data in Spreadsheets)[https://datacarpentry.org/spreadsheets-socialsci/] This might provide a clear jump-off location for a more taylored lesson. 
+  * Learn to work with `.csv, .xlsx` and similar raw data files with `python` or `R`.
+    * See: (Formating Data in Spreadsheets)[https://datacarpentry.org/spreadsheets-socialsci/] This might provide a clear jump-off location for a more tailored lesson. 
   *  Develop reproducible cleaning scripts. A contrast from the Data Carpentry lesson that uses (Open Refine)[https://datacarpentry.org/openrefine-socialsci/]
-  * Exploratory data analysis (Similar to this but taylored to public sector folks?)[https://datacarpentry.org/r-socialsci/]
-    * After learning how to work with "common file types", and loading data into prefered software tool, we can:
-      * Data wragling basics in prefred language.
+  * Exploratory data analysis (Similar to this but tailored to public sector folks?)[https://datacarpentry.org/r-socialsci/]
+    * After learning how to work with "common file types", and loading data into preferred software tool, we can:
+      * Data wrangling basics in preferred language.
       * Simple Data Viz.
       * Producing figures for reporting.
   * Reporting tools:
@@ -19,16 +19,16 @@
     * STATA and SPSS support
 ## Step 2(a): Who is this course for?
 1. What is the expected educational level of your audience? 
-  * all sorts of levels, targetting data professionals in non-profit and governement organizations.  
+  * all sorts of levels, targeting data professionals in non-profit and government organizations.  
 2. What type of exposure do your audience members have to the technologies you plan to teach?
-  * Minimal experiance with open source data software tools.
+  * Minimal experience with open source data software tools.
 3. What types of tools do they already use?
-  * Works with data at some capacity (excell files --> SQL)
+  * Works with data at some capacity (excel files --> SQL)
   * Might heavily rely on proprietary software to conduct work.
   * Some R or Python.
 4. What are the pain points they are currently experiencing?
   * Unable to reproduce external data requests or ETL procedures currently being used in-house. 
-  * Reporting is not reproducible or vesion controlled. 
+  * Reporting is not reproducible or version controlled. 
   * data tables and figures are not versioned controlled.
 5. What types of data does your target audience work with? What are the commonalities in the datasets your target audience will encounter?
   * Administrative data containing user logs.
@@ -37,7 +37,7 @@
 Link to [Learner profiles](https://cdh.carpentries.org/deciding-what-to-teach.html#learner-profiles). 
 
 * **Learner-1**: Learner-1 is the only data analyst in a government organization and wants to leverage open source tools to conduct their work. They have been using some proprietary software and want to begin doing their work using R or Python. 
-* **Learner-2**: Learner-2 is a data manager in theor organization...
+* **Learner-2**: Learner-2 is a data manager in their organization...
 
 Link to [audience definition questions](https://cdh.carpentries.org/deciding-what-to-teach.html#audience-definition-questions)
 
@@ -54,7 +54,7 @@ Link to [audience definition questions](https://cdh.carpentries.org/deciding-wha
 
 **Skills required**: 
 **What will the participants need to have in order to be successful**
-* Begginers course! Low entry-bar
+* Beginners course! Low entry-bar
 * Install appropriate software on local machine.
 ## Step 4: Designing Challenges
 
