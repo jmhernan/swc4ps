@@ -19,10 +19,20 @@
     * STATA and SPSS support
 ## Step 2(a): Who is this course for?
 1. What is the expected educational level of your audience? 
+  * all sorts of levels, targetting data professionals in non-profit and governement organizations.  
 2. What type of exposure do your audience members have to the technologies you plan to teach?
+  * Minimal experiance with open source data software tools.
 3. What types of tools do they already use?
+  * Works with data at some capacity (excell files --> SQL)
+  * Might heavily rely on proprietary software to conduct work.
+  * Some R or Python.
 4. What are the pain points they are currently experiencing?
+  * Unable to reproduce external data requests or ETL procedures currently being used in-house. 
+  * Reporting is not reproducible or vesion controlled. 
+  * data tables and figures are not versioned controlled.
 5. What types of data does your target audience work with? What are the commonalities in the datasets your target audience will encounter?
+  * Administrative data containing user logs.
+  * Programmatic data and logs containing geographical and aggregated information of program and clients. 
 
 Link to [Learner profiles](https://cdh.carpentries.org/deciding-what-to-teach.html#learner-profiles). 
 
