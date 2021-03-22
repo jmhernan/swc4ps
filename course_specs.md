@@ -49,7 +49,11 @@ In Anaya's current role she is tasked with developing useful insights from educa
 
   This iteration of Software Carpentry will teach Anaya the basic workflow to automate these tasks using R by writing simple scripts to use data from SQL, do your analyses tasks using R and output a visualization that can be used directly as a deliverable or a sketch of something you want to do in Tableau. These analysis pipelines can then be used to address similar requests moving forward and you won't have to recreate everything from scratch as was the previous practice. 
 
-* **Learner-2**: *Brin Eager* 
+* **Learner-2**: *Brian Eager* received a BA in Sociology four years ago. He is currently working as a data analyst for the local city housing authority.  Brian has been using excel to do most of the data work in his current position.
+
+  The housing authorities typically put out seasonal internal reports summarizing their administrative log data of services being provided and who is signing up for them. Brian, provides detailed tables of service providers and user numbers these reports. Brian's supervisor then combines Brian's contributions into a word document and shares out as a PDF.
+
+  Software Carpentry can help Brian how to write scripts to automate some of the number summarization tasks, and teach him how to use version control to manage different report iterations of similar data summary tasks. In addition, Brian will be exposed to `RMarkdown` and how the production of simple summary reports can be done in a seamless process, while combining his analysis scripts and his supervisors content knowledge.    
 
 Link to [audience definition questions](https://cdh.carpentries.org/deciding-what-to-teach.html#audience-definition-questions)
 
