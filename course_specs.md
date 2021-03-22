@@ -36,8 +36,20 @@
 
 Link to [Learner profiles](https://cdh.carpentries.org/deciding-what-to-teach.html#learner-profiles). 
 
-* **Learner-1**: Learner-1 is the only data analyst in a government organization and wants to leverage open source tools to conduct their work. They have been using some proprietary software and want to begin doing their work using R or Python. 
-* **Learner-2**: Learner-2 is a data manager in their organization...
+* **Learner-1**: *Anaya Multifocus* recieved an MA in Education Policy Analysis three years ago. She has worked as a data analyst for the past year in the non-profit education space. She has began a self-taught R curriculum and is interested in seeing how it can be incorporated into the work.
+In Anaya's current role she is tasked with developing useful insights from education data using whatever tools she is most comfortable with. Anaya's team consists of her supervisor, who has a backgrouns in managing large data systems, and a data engineer who maintains their data warehouse. Historically, their previous work is all done using SQL, excel pivot tables, and Tableau for visualizations.
+
+  When a new request comes in Anaya and the team work together to complete a request:
+  1. Extract the right data from their MS-SQL database,
+  2. use excel to summarize and explore, and 
+  3. design an insightful visualization (if necessary using Tableu)
+  4. Exporting the table or visualization as in a format that can be combined with some word processing for minor write-ups (e.g. `.jpg`)
+
+  Anaya knows that `R` can be used to do a lot of these tasks, and has shared this with the team. Her supervisor is completely on-board and wants Anaya to lead and incorporate something that can be version controlled into their work flow. Anaya knows she needs a more formal introduction to `R` with a specific focus on how practitioners (non-researchers) do this on the ground. 
+
+  This iteration of Software Carpentry will teach Anaya the basic workflow to automate these tasks using R by writing simple scripts to use data from SQL, do your analyses tasks using R and output a visualization that can be used directly as a deliverable or a sketch of something you want to do in Tableau. These analysis pipelines can then be used to address similar requests moving forward and you won't have to recreate everything from scratch as was the previous practice. 
+
+* **Learner-2**: *Brin Eager* 
 
 Link to [audience definition questions](https://cdh.carpentries.org/deciding-what-to-teach.html#audience-definition-questions)
 
