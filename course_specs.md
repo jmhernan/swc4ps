@@ -62,24 +62,29 @@ After learning how to work with "common file types", and loading data into prefe
 
 Link to [Learner profiles](https://cdh.carpentries.org/deciding-what-to-teach.html#learner-profiles). 
 
-* **Learner-1**: *Anaya Multifocus* recieved an MA in Education Policy Analysis three years ago. She has worked as a data analyst for the past year in the non-profit education space. She has began a self-taught R curriculum and is interested in seeing how it can be incorporated into the work.
-In Anaya's current role she is tasked with developing useful insights from education data using whatever tools she is most comfortable with. Anaya's team consists of her supervisor, who has a backgrouns in managing large data systems, and a data engineer who maintains their data warehouse. Historically, their previous work is all done using SQL, excel pivot tables, and Tableau for visualizations.
+* **Learner-1**: *Anaya Multifocus* recieved an MA in Education Policy Analysis three years ago. She has worked as a data analyst for the past year in the non-profit education space. She has began a self-taught R curriculum and is interested in seeing how it can be incorporated into the work. Anaya, has a lot of experience using SPSS and STATA to do statistical analyses and relies on those tools to do basic correlational analyses in her current role.
+    
+In Anaya's current role she is tasked with developing useful insights from education data using whatever tools she is most comfortable with. Anaya's team consists of her supervisor, who has a background in managing large data systems, and a data engineer who maintains their data warehouse. Historically, their work is all done using SQL, excel pivot tables, SPSS for correlational analyses and Tableau for visualizations.
 
   When a new request comes in Anaya and the team work together to complete a request:
-  1. Extract the right data from their MS-SQL database,
+  1. Extract the right data from their MS-SQL database, 
   2. use excel to summarize and explore, and 
-  3. design an insightful visualization (if necessary using Tableu)
-  4. Exporting the table or visualization as in a format that can be combined with some word processing for minor write-ups (e.g. `.jpg`)
+  3. design an insightful visualization (if necessary using Tableau)
+  4. Exporting the table or visualization in a format that can be combined with some word processing for minor write-ups (e.g. `.jpg`)
 
   Anaya knows that `R` can be used to do a lot of these tasks, and has shared this with the team. Her supervisor is completely on-board and wants Anaya to lead and incorporate something that can be version controlled into their work flow. Anaya knows she needs a more formal introduction to `R` with a specific focus on how practitioners (non-researchers) do this on the ground. 
 
-  This iteration of Software Carpentry will teach Anaya the basic workflow to automate these tasks using R by writing simple scripts to use data from SQL, do your analyses tasks using R and output a visualization that can be used directly as a deliverable or a sketch of something you want to do in Tableau. These analysis pipelines can then be used to address similar requests moving forward and you won't have to recreate everything from scratch as was the previous practice. 
+  This iteration of Software Carpentry will teach Anaya the basic workflow to automate these tasks, write reproducible SQL queries, use R to write scripts to do the analyses tasks and output a table or a visualization that can be used directly as a deliverable or a sketch of something you want to do in Tableau. These analysis pipelines can then be used to address similar requests moving forward and you won't have to recreate everything from scratch as was the previous practice. 
 
-* **Learner-2**: *Brian Eager* received a BA in Sociology four years ago. He is currently working as a data analyst for the local city housing authority.  Brian has been using excel to do most of the data work in his current position.
+* **Learner-2**: *Brian Eager* received a BS in Sociology four years ago. He is currently working as a data analyst for the local city housing authority.  Brian has been using excel to do most of the data work in his current position.
 
   The housing authorities typically put out seasonal internal reports summarizing their administrative log data of services being provided and who is signing up for them. Brian, provides detailed tables of service providers and user numbers these reports. Brian's supervisor then combines Brian's contributions into a word document and shares out as a PDF.
 
-  Software Carpentry can help Brian how to write scripts to automate some of the number summarization tasks, and teach him how to use version control to manage different report iterations of similar data summary tasks. In addition, Brian will be exposed to `RMarkdown` and how the production of simple summary reports can be done in a seamless process, while combining his analysis scripts and his supervisors content knowledge.    
+  Their data is usually output by their intake system as very messy `.csv` files that have to be cleaned and processed by brian and his supervisor. Brian does all of the cleanup of the `.csv` files in excel and creates different pivot tables that are then used for the analysis/explore tasks. 
+
+  Brian is currently the only data analyst working directly with the supervisor, and is given a lot of autonomy in terms of what tools he uses to complete his work. Brian wants to learn how to use `R` and effectively incorporate it into his work. 
+
+  Software Carpentry can help Brian learn how to write scripts to automate some of the cleaning and number summarization tasks, and teach him how to use version control to manage different report iterations of similar data summary tasks. In addition, Brian will be exposed to `RMarkdown` and how the production of simple summary reports can be done in a seamless process, while combining his analysis scripts and his supervisors content knowledge in the write-up stage.    
 
 Link to [audience definition questions](https://cdh.carpentries.org/deciding-what-to-teach.html#audience-definition-questions)
 
