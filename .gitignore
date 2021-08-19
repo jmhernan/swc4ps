@@ -2,3 +2,4 @@ ocr_db/
 logfile
 data/*
 !data/.gitkeep
+!data/README.md
